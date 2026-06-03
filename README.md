@@ -28,7 +28,7 @@
 
 ### 📊 АНАЛИЗ БОЕВОЙ ЭФФЕКТИВНОСТИ (GITHUB STATS)
 
-![GitHub Stats](https://ghstats.dev/api/card?username=Johan-glitch-c&theme=tokyonight)
+![GitHub Stats]([https://ghstats.dev/api/card?username=Johan-glitch-c&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Johan-glitch-c&show_icons=true&theme=tokyonight))
 
 ![Top Languages](https://ghstats.dev/api/langs?username=Johan-glitch-c&theme=tokyonight)
 ---
