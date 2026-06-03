@@ -16,6 +16,7 @@
 
 ---
 
+
 ### 🔮 ГИАСС: АБСОЛЮТНОЕ УПРАВЛЕНИЕ (TECH STACK)
 
 | Направление | Технологии |
@@ -24,13 +25,16 @@
 | **Infrastructure** | `Docker` `Kubernetes` `AWS` |
 | **Database** | `PostgreSQL` |
 
+
 ---
+
 
 ### 📊 АНАЛИЗ БОЕВОЙ ЭФФЕКТИВНОСТИ (GITHUB STATS)
 
-![GitHub Stats]([https://ghstats.dev/api/card?username=Johan-glitch-c&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Johan-glitch-c&show_icons=true&theme=tokyonight))
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Johan-glitch-c&theme=tokyo-night)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=Johan-glitch-c&theme=tokyonight)
+
 ---
 
 ### 📂 СЕКРЕТНЫЕ РАЗРАБОТКИ (PROJECTS)
