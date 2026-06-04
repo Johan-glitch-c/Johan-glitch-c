@@ -33,14 +33,13 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Johan-glitch-c&theme=tokyo-night)
 
-![Top Languages](https://ghstats.dev/api/langs?username=Johan-glitch-c&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Johan-glitch-c&layout=compact&theme=tokyonight)
 ---
 
 ### 📂 СЕКРЕТНЫЕ РАЗРАБОТКИ (PROJECTS)
 
-* 🚀 **[TasteHub]** — Сайт с рецептами для разных блюд.
-* 🔥 **[SpaceBlog]** — Платформа для введения своего творчества.
+*  **[TasteHub]** — Сайт с рецептами для разных блюд.
+*  **[SpaceBlog]** — Платформа для введения своего творчества.
 
 ---
 
