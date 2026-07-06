@@ -4,7 +4,7 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b9fb0840-5748-47c0-96c3-feac812454d2/d26tnf5-21cbbf49-cd12-42a9-9afe-922595f6f57f.png/v1/fill/w_1131,h_707,q_70,strp/code_geass_symbol_wallpaper_by_scarredpsyche_d26tnf5-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA1MCIsInBhdGgiOiIvZi9iOWZiMDg0MC01NzQ4LTQ3YzAtOTZjMy1mZWFjODEyNDU0ZDIvZDI2dG5mNS0yMWNiYmY0OS1jZDEyLTQyYTktOWFmZS05MjI1OTVmNmY1N2YucG5nIiwid2lkdGgiOiI8PTE2ODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.wolIsIYDTSn2r-X6PQKY-E-sSk8lvD7S3rxqV_XKsbs" alt="Geass Symbol" width="600" />
 </p>
 
-> **"Мир нельзя изменить одними лишь словами. Но если ты готов взять на себя ответственность за кровь, которую прольешь — добро пожаловать в мой мир."** > — *Zero*
+> **"Ошиблся не я! Ошибался мир! И мир изменится - его можно изменить"** > — *Zero*
 
 ---
 
@@ -39,7 +39,8 @@
 ### 📂 СЕКРЕТНЫЕ РАЗРАБОТКИ (PROJECTS)
 
 *  **[TasteHub]** — Сайт с рецептами для разных блюд.
-*  **[SpaceBlog]** — Платформа для введения своего творчества.
+*  **[SpaceBlog]** — Платформа для введения своего блога.
+*  **[PinBoard]** - Веб-приложение для свободного творчества.
 
 ---
 
