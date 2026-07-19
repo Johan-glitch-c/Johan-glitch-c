@@ -21,9 +21,9 @@
 
 | Направление | Технологии |
 | :--- | :--- |
-| **Back-end** | `Django` `Python`  |
-| **Infrastructure** | `Docker` `Kubernetes` `AWS` |
-| **Database** | `PostgreSQL` |
+| **Back-end** | `Django` `Python` `FastAPI`  |
+| **Infrastructure** | `Docker` `Docker Compose` |
+| **Database** | `PostgreSQL` `Redis`|
 
 
 ---
