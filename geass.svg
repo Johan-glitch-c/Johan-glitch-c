@@ -1,0 +1,40 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="geassCore" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff3b3b"/>
+      <stop offset="55%" stop-color="#ff0000"/>
+      <stop offset="100%" stop-color="#3a0000"/>
+    </radialGradient>
+    <filter id="geassGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+    </filter>
+  </defs>
+
+  <circle cx="110" cy="110" r="105" fill="#050505" stroke="#ff1a1a" stroke-opacity="0.4" stroke-width="1.5"/>
+
+  <g stroke="#ff1a1a" stroke-opacity="0.5" stroke-width="1" fill="none">
+    <circle cx="110" cy="110" r="90"/>
+    <circle cx="110" cy="110" r="70"/>
+  </g>
+
+  <g transform="translate(110,110)">
+    <g filter="url(#geassGlow)">
+      <circle r="34" fill="url(#geassCore)"/>
+    </g>
+    <circle r="10" fill="#0a0000"/>
+
+    <g stroke="#ff2b2b" stroke-width="3" stroke-linecap="round">
+      <path d="M0,-34 C10,-20 10,-10 0,-10" fill="none"/>
+      <path d="M29,17 C15,20 6,15 3,5" fill="none"/>
+      <path d="M-29,17 C-15,20 -6,10 -3,0" fill="none"/>
+    </g>
+
+    <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="14s" repeatCount="indefinite" additive="sum"/>
+  </g>
+
+  <g transform="translate(110,110)">
+    <circle r="102" fill="none" stroke="#ff1a1a" stroke-width="1" stroke-dasharray="2 6" opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
