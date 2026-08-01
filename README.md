@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,linux,git,github,pycharm&theme=dark" />
 
 </div>
 
