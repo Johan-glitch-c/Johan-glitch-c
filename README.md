@@ -73,16 +73,15 @@
 
 <div align="center">
 
-| `01` | `02` | `03` | `04` | `05` | `06` | `07` | `08` |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Dossier](#-section-01--identity-dossier) | [Arsenal](#️-section-02--system-arsenal) | [Mission](#-section-03--current-mission) | [Operations](#️-section-04--featured-operations) | [Analytics](#-section-05--github-analytics) | [Snake](#-section-06--contribution-snake) | [Visitors](#️-section-07--visitor-log) | [Connect](#-section-08--establish-connection) |
+| `01` | `02` | `02.5` | `03` | `04` | `05` |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Arsenal](#️-section-01--system-arsenal) | [Operations](#️-section-02--featured-operations) | [Architecture](#️-section-025--system-architecture) | [Analytics](#-section-03--github-analytics) | [Visitors](#️-section-04--visitor-log) | [Connect](#-section-05--establish-connection) |
 
 </div>
 
 <br/>
 
 ---
-
 
 
 <h2 align="center">⚙️ SECTION 01 — SYSTEM ARSENAL</h2>
