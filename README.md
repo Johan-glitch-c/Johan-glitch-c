@@ -341,7 +341,7 @@ A task and project management tool replicating core Trello functionality — boa
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&hide_border=true&background=0A0A0A&ring=FF1A1A&fire=FF1A1A&currStreakLabel=FF1A1A&sideLabels=c9c9c9&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=8a8a8a" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Johan-glitch-c&theme=react&hide_border=true&background=0A0A0A&ring=FF1A1A&fire=FF1A1A&currStreakLabel=FF1A1A&sideLabels=c9c9c9&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=8a8a8a" width="70%" />
 
 </div>
 
@@ -351,7 +351,7 @@ A task and project management tool replicating core Trello functionality — boa
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=c9c9c9&line=FF1A1A&point=FF1A1A&area=true&area_color=FF1A1A" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Johan-glitch-c&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=c9c9c9&line=FF1A1A&point=FF1A1A&area=true&area_color=FF1A1A" width="90%" />
 
 </div>
 
