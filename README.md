@@ -126,7 +126,7 @@
 <sub>TOOLING</sub><br/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff1a1a" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff1a1a" />
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ff1a1a" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ff1a1a" />
 
 </div>
 
