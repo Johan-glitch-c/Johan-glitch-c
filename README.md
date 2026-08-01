@@ -433,39 +433,6 @@ NOTE          : replace 'yourusername' across this document
 
 ---
 
-<div align="center">
-<img src="geass.svg" width="140" alt="geass emblem" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 「 THE WORLD CANNOT BE CHANGED WITH PRETTY WORDS ALONE. 」
-
-<sub>— Lelouch vi Britannia</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/END_OF_TRANSMISSION-ff1a1a?style=for-the-badge&labelColor=0a0a0a" />
-
-<br/><br/>
-
-<sub>ZERO PROTOCOL &#8226; SYSTEM SHUTDOWN INITIATED &#8226; SEE YOU NEXT SESSION</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-[SYSTEM] connection closed.
-[SYSTEM] all logs archived.
-[SYSTEM] awaiting next transmission...
-```
-
-</div>
 
 <div align="center">
 <sub><i>This profile is a living document — updated as new missions are completed.</i></sub>
