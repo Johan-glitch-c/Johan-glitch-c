@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="ZERO PROTOCOL — Johan // Python Backend Developer" />
+<img src="banner.svg" width="100%" alt="ZERO PROTOCOL — Johan // Python Backend Developer" />
 
 </div>
 
@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-<img src="assets/terminal.svg" width="100%" alt="terminal boot sequence" />
+<img src="terminal.svg" width="100%" alt="terminal boot sequence" />
 </div>
 
 <br/>
@@ -56,7 +56,7 @@
               :::::::::::::::::::          Kernel:     python-3.x-core
             :::::::::::::::::::::::        Shell:      django / fastapi
               :::::::::::::::::::          DE:         REST + Async
-                :::::::::::::::            Terminal:   VS Code
+                :::::::::::::::            Terminal:   PyCharm
                   ':::::::::::'            CPU:        Problem-Solving Unit
                     ':::::::'              Memory:     PostgreSQL + Redis
                                             Storage:    Docker Volumes
@@ -83,59 +83,9 @@
 
 ---
 
-<h2 align="center">📡 SECTION 01 — IDENTITY DOSSIER</h2>
 
-<div align="center">
 
-```yaml
-identity:
-  codename: "Zero"
-  name: "Johan"
-  role: "Python Backend Developer"
-  location: "Classified // Available on request"
-  clearance_level: "ROOT"
-  timezone: "Sync on request"
-
-current_focus:
-  - Designing scalable REST & async APIs
-  - Backend architecture with Django & FastAPI
-  - Caching, queues and performance tuning with Redis
-  - Writing clean, testable, maintainable Python
-
-currently_learning:
-  - SQLAlchemy (advanced ORM patterns)
-  - CI/CD pipelines
-  - Kubernetes & container orchestration
-  - Microservices architecture
-
-operational_principles:
-  - "Simplicity is the ultimate sophistication."
-  - "Systems fail quietly long before they fail loudly — watch closely."
-  - "Every endpoint is a promise. Keep it."
-
-goal: >
-  Build backend systems that are fast, resilient,
-  and quietly powerful — infrastructure that doesn't fail
-  when it matters most.
-
-mission: >
-  "The world cannot be changed with pretty words alone.
-   Code is the language of action."
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>DOSSIER VERIFIED &#8226; CLEARANCE CONFIRMED &#8226; ACCESS: FULL</sub>
-</div>
-
-<br/>
-
----
-
-<h2 align="center">⚙️ SECTION 02 — SYSTEM ARSENAL</h2>
+<h2 align="center">⚙️ SECTION 01 — SYSTEM ARSENAL</h2>
 
 <p align="center">
 <sub>DEPLOYED TECHNOLOGIES // ACTIVE STACK</sub>
@@ -192,7 +142,7 @@ mission: >
 | **Data Layer** | `PostgreSQL` | Primary relational datastore |
 | **Cache / Queue** | `Redis` | Caching, sessions, task queues |
 | **Infrastructure** | `Docker` `Linux` | Containerization & deployment environment |
-| **Tooling** | `Git` `GitHub` `VS Code` | Version control & daily development environment |
+| **Tooling** | `Git` `GitHub` `PyCharm` | Version control & daily development environment |
 
 </div>
 
@@ -220,69 +170,9 @@ Docker    → every environment reproducible, every deploy
 
 ---
 
-<h2 align="center">🎯 SECTION 03 — CURRENT MISSION</h2>
 
-<div align="center">
 
-```
-┌──────────────────────────────────────────────┐
-│  MISSION LOG :: ZERO_REQUIEM_BACKEND_PATH     │
-├──────────────────────────────────────────────┤
-│  [x] Python                                   │
-│  [x] Django                                   │
-│  [x] PostgreSQL                               │
-│  [x] Docker                                   │
-│  [ ] SQLAlchemy                               │
-│  [ ] CI/CD                                    │
-│  [ ] Kubernetes                               │
-│  [ ] Microservices                            │
-├──────────────────────────────────────────────┤
-│  PROGRESS: ████████████░░░░░░░░  50%          │
-│  STATUS: OPERATION IN PROGRESS...             │
-└──────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### OPERATIONAL ROADMAP
-
-| PHASE | OBJECTIVE | STATUS |
-|:--|:--|:--:|
-| `PHASE 01` | Master core backend fundamentals — Python, Django, PostgreSQL | ✅ Complete |
-| `PHASE 02` | Containerize all services with Docker | ✅ Complete |
-| `PHASE 03` | Adopt FastAPI for async, high-throughput services | 🟡 In Progress |
-| `PHASE 04` | Deepen ORM mastery with SQLAlchemy | 🟡 In Progress |
-| `PHASE 05` | Automate testing & deployment with CI/CD | ⬜ Queued |
-| `PHASE 06` | Container orchestration with Kubernetes | ⬜ Queued |
-| `PHASE 07` | Transition monoliths into microservices | ⬜ Queued |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-> mission.next_action()
-------------------------------------------------------------
-TARGET     : SQLAlchemy mastery + CI/CD pipeline setup
-METHOD     : build → break → refactor → document
-TIMELINE   : ongoing, no fixed deadline — depth over speed
-BLOCKER    : none detected
-------------------------------------------------------------
-```
-
-</div>
-
-<br/>
-
----
-
-<h2 align="center">🗂️ SECTION 04 — FEATURED OPERATIONS</h2>
+<h2 align="center">🗂️ SECTION 02 — FEATURED OPERATIONS</h2>
 
 <p align="center"><sub>ACTIVE & ARCHIVED PROJECT FILES</sub></p>
 
@@ -325,7 +215,7 @@ A space-exploration themed blogging platform with a focus on clean content archi
 - Optimized query layer for fast reads
 
 **Current Status**
-`🟡 STABLE — Maintenance Mode`
+`🟢 ACTIVE — In Development`
 
 </td>
 </tr>
@@ -338,7 +228,7 @@ A space-exploration themed blogging platform with a focus on clean content archi
 A Pinterest-inspired image bookmarking app with boards, collections, and a REST API backend.
 
 **Tech Stack**
-`Python` `FastAPI` `PostgreSQL` `Redis`
+`Python` `Django` `PostgreSQL` 
 
 **Key Features**
 - Async REST API built on FastAPI
@@ -357,7 +247,7 @@ A Pinterest-inspired image bookmarking app with boards, collections, and a REST 
 A task and project management tool replicating core Trello functionality — boards, lists, and cards, with a real-time-ready backend.
 
 **Tech Stack**
-`Python` `Django` `Docker`
+`Python` `FastAPI` `PostgreSQL` `Redis`
 
 **Key Features**
 - Boards → Lists → Cards data model
@@ -383,7 +273,7 @@ A task and project management tool replicating core Trello functionality — boa
 
 ---
 
-<h2 align="center">🏗️ SECTION 04.5 — SYSTEM ARCHITECTURE</h2>
+<h2 align="center">🏗️ SECTION 02.5 — SYSTEM ARCHITECTURE</h2>
 
 <p align="center"><sub>TYPICAL BACKEND BLUEPRINT // HOW THE SYSTEMS ARE BUILT</sub></p>
 
@@ -440,30 +330,15 @@ A task and project management tool replicating core Trello functionality — boa
 
 ---
 
-<h2 align="center">📊 SECTION 05 — GITHUB ANALYTICS</h2>
+<h2 align="center">📊 SECTION 03 — GITHUB ANALYTICS</h2>
 
 <p align="center"><sub>REAL-TIME PERFORMANCE METRICS</sub></p>
 
-<div align="center">
-
-```
-> language.distribution()
-------------------------------------------------------------
-Python        ████████████████████████████░░░░  78%
-JavaScript    ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░  12%
-Dockerfile    ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6%
-Other         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%
-------------------------------------------------------------
-```
-
-</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&hide_border=true&bg_color=0a0a0a&title_color=ff1a1a&icon_color=ff1a1a&text_color=c9c9c9&ring_color=ff1a1a" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&hide_border=true&bg_color=0a0a0a&title_color=ff1a1a&text_color=c9c9c9" width="49%" />
 
 <br/>
 
@@ -502,88 +377,9 @@ NOTE          : replace 'yourusername' across this document
 
 ---
 
-<h2 align="center">🐍 SECTION 06 — CONTRIBUTION SNAKE</h2>
 
-<p align="center"><sub>REAL-TIME CONTRIBUTION SEQUENCE // AUTO-GENERATED DAILY</sub></p>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.gif" width="90%" alt="contribution snake animation" />
-
-</div>
-
-<div align="center">
-
-```
-> workflow.status()
-------------------------------------------------------------
-FILE      : .github/workflows/snake.yml
-TRIGGER   : daily cron (00:00 UTC) + manual dispatch + push
-ACTION    : Platane/snk@v3
-OUTPUT    : dist/snake.svg, snake-dark.svg, snake.gif
-TARGET    : pushed automatically to the 'output' branch
-------------------------------------------------------------
-```
-
-</div>
-
-<p align="center">
-<sub>Enable the workflow once, and the snake regenerates itself — no manual updates required.</sub>
-</p>
-
-<br/>
-
----
-
-<h2 align="center">🗒️ SECTION 06.5 — SYSTEM LOGS</h2>
-
-<p align="center"><sub>RECENT ACTIVITY // OPERATIONAL LOG</sub></p>
-
-<div align="center">
-
-```
-[2026-08-01 09:12:04] INFO   backend: refactored auth middleware for JWT rotation
-[2026-07-29 21:47:33] INFO   backend: added Redis caching layer to PinBoard API
-[2026-07-26 14:03:11] INFO   infra:   Dockerized TasteHub for local + staging parity
-[2026-07-22 18:55:47] INFO   backend: optimized PostgreSQL queries on SpaceBlog feed
-[2026-07-18 10:21:09] INFO   study:   started deep dive into SQLAlchemy relationships
-[2026-07-14 23:09:52] INFO   backend: scaffolded Trello Clone data model (boards/lists/cards)
-[2026-07-10 16:40:18] INFO   infra:   researched CI/CD pipelines for automated testing
-[2026-07-05 12:15:37] INFO   backend: migrated PinBoard endpoints to FastAPI
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### FREQUENTLY ASKED — TERMINAL Q&A
-
-```
-> query: "what do you actually build?"
-< response: backend systems — APIs, databases, and the
-             infrastructure that keeps them running.
-
-> query: "why Django AND FastAPI?"
-< response: different tools for different jobs. Django for
-             structure and speed of delivery. FastAPI for
-             raw async performance and typed contracts.
-
-> query: "open to collaboration?"
-< response: affirmative. see SECTION 08 for open channels.
-
-> query: "status?"
-< response: online. building. learning. repeat.
-```
-
-</div>
-
-<br/>
-
----
-
-<h2 align="center">👁️ SECTION 07 — VISITOR LOG</h2>
+<h2 align="center">👁️ SECTION 04 — VISITOR LOG</h2>
 
 <div align="center">
 
@@ -601,19 +397,19 @@ TARGET    : pushed automatically to the 'output' branch
 
 ---
 
-<h2 align="center">📡 SECTION 08 — ESTABLISH CONNECTION</h2>
+<h2 align="center">📡 SECTION 05 — ESTABLISH CONNECTION</h2>
 
 <p align="center"><sub>OPEN CHANNELS // SECURE CONTACT</sub></p>
 
 <div align="center">
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Johan-glitch-c">
 <img src="https://img.shields.io/badge/GITHUB-CONNECT-ff1a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
 </a>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/ali-asadov-a81239401">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-ff1a1a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:aliasadov475@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-ff1a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
 </a>
 
@@ -629,42 +425,17 @@ TARGET    : pushed automatically to the 'output' branch
 
 <div align="center">
 
-### DEPLOYMENT CHECKLIST — GETTING IN TOUCH
-
-```
-[x] Review featured operations (Section 04)
-[x] Check the arsenal (Section 02)
-[ ] Open a channel (GitHub / LinkedIn / Email)
-[ ] Describe the mission
-[ ] Await transmission response (24-48h)
-```
-
-</div>
 
 <br/>
 
-<div align="center">
 
-```
-> connection.protocol()
-------------------------------------------------------------
-CHANNEL 01 : GitHub    — code, projects, contributions
-CHANNEL 02 : LinkedIn  — professional network, opportunities
-CHANNEL 03 : Email     — direct, secure transmission
-------------------------------------------------------------
-RESPONSE TIME : Within 24-48 hours
-STATUS        : Open to collaboration & opportunities
-------------------------------------------------------------
-```
-
-</div>
 
 <br/>
 
 ---
 
 <div align="center">
-<img src="assets/geass.svg" width="140" alt="geass emblem" />
+<img src="geass.svg" width="140" alt="geass emblem" />
 </div>
 
 <br/>
