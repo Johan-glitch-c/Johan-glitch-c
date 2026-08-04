@@ -382,7 +382,7 @@ NOTE          : replace 'yourusername' across this document
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=TRANSMISSION+COUNT&color=ff1a1a&style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://komarev.com/ghpvc/?username=Johan-glitch-c&label=TRANSMISSION+COUNT&color=ff1a1a&style=for-the-badge&labelColor=0a0a0a" />
 
 </div>
 
